@@ -5,7 +5,7 @@ int main()
 {
     string str;
     int count = 0,i;
-    cout << "Enter a sentance: ";
+    cout << "ENTER THE SENTANCE : ";
     getline(cin, str);
     for(i = 0;i <= str.length()-1;i++){
         if(str[i] >= '0' && str[i] <= '9'){
