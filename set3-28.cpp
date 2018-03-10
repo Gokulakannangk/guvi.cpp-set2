@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int i,j,a[i];
-    cout<<"Enter the array size";
+    cout<<"ENTER THE FONT SIZE ";
     cin>>i;
     cout<<"Enter the elements into the array"<<endl;
     for(j = 0;j < i;j++){
