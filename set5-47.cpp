@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n,a[n],max,min;
-    cout<<"Enter a number:";
+    cout<<"ENTER THE NUMBER :";
     cin>>n;
     for(int j = 0;j < n;j++){
         cin>>a[j];
