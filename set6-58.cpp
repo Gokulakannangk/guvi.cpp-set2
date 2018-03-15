@@ -14,7 +14,7 @@ int main(){
     b = a ^ b;
     a = a ^ b;
     
-    cout <<"== After Swapping ==" <<endl;
+    cout <<"== AFTER SWAPPING ==" <<endl;
     cout << "First value is "<< a <<endl;
     cout << "Second value is "<< b <<endl;
 	
