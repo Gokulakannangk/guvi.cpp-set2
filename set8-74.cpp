@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    double Num;
-    cin>>Num;
-    cout<<round(Num);
+    double NUM;
+    cin>>NUM;
+    cout<<round(NUM);
 
     return 0;
 }
